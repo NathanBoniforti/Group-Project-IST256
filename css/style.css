@@ -1,88 +1,36 @@
-/* General Page Styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f6f8;
-    color: #212529;
+    background-color: #f5f5f5;
 }
 
-/* Magazine Header */
-.magazine-header {
-    background-color: #1f3c88;
-    color: white;
-    padding: 50px 20px;
-    text-align: center;
+.navbar {
+    padding: 15px;
 }
 
-.magazine-header h1 {
-    font-size: 3rem;
+.navbar-brand {
+    font-size: 24px;
     font-weight: bold;
 }
 
-.magazine-header p {
-    font-size: 1.2rem;
+.container h1 {
+    font-size: 40px;
+    font-weight: bold;
 }
 
-/* Article Cards */
-.article-card {
-    background-color: white;
-    border-radius: 10px;
-    padding: 25px;
-    margin-bottom: 20px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-}
-
-/* Signup Form */
-.signup-container {
-    max-width: 700px;
-    margin: 40px auto;
-}
-
-.signup-card {
-    background-color: white;
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-}
-
-/* Buttons */
-.btn-magazine {
-    background-color: #1f3c88;
-    color: white;
+.card {
+    height: 100%;
     border: none;
+    box-shadow: 0 2px 8px gray;
 }
 
-.btn-magazine:hover {
-    background-color: #162d68;
-    color: white;
+.card h3 {
+    font-weight: bold;
 }
 
-/* Subscriber Table */
-.subscriber-table {
-    background-color: white;
-    border-radius: 10px;
-    overflow: hidden;
+.card:hover {
+    transform: translateY(-3px);
 }
 
-/* Footer */
 footer {
-    background-color: #212529;
-    color: white;
-    text-align: center;
-    padding: 20px;
-    margin-top: 50px;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .magazine-header h1 {
-        font-size: 2.2rem;
-    }
-
-    .main-container {
-        margin: 20px;
-    }
-
-    .signup-card {
-        padding: 20px;
-    }
+    background-color: #f5f5f5;
 }
