@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "fullName": "Jordan Miller",
+    "email": "jordan.miller@gmail.com",
+    "phone": "814-555-0142",
+    "age": 20,
+    "address": "100 College Ave, State College, PA 16801"
+  },
+  {
+    "id": 2,
+    "fullName": "Taylor Brooks",
+    "email": "tbrooks@psu.edu",
+    "phone": "",
+    "age": 22,
+    "address": "250 Beaver Ave, State College, PA 16801"
+  },
+  {
+    "id": 3,
+    "fullName": "Chris Alvarez",
+    "email": "chris.alvarez@yahoo.com",
+    "phone": "717-555-0199",
+    "age": 35,
+    "address": "48 Market St, Harrisburg, PA 17101"
+  }
+]

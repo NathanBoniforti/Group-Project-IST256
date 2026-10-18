@@ -1,5 +1,19 @@
+// This list holds all the subscribers (filled from subscribers.json)
 let subscribers = [];
 let form = document.getElementById("signupForm");
+
+// Load the saved subscribers from subscribers.json when the page opens
+fetch("subscribers.json")
+    .then(function (response) {
+        return response.json();
+    })
+    .then(function (data) {
+        subscribers = data;
+        showSubscribers();
+    })
+    .catch(function () {
+        console.log("Could not load subscribers.json. Make sure it is in the same folder and you are using Live Server.");
+    });
 
 function showError(fieldId, message) {
     document.getElementById(fieldId).classList.add("is-invalid");

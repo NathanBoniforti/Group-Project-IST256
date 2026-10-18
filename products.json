@@ -1,0 +1,34 @@
+[
+  {
+    "id": "SW-STD-M",
+    "title": "Standard Subscription - Monthly",
+    "category": "Standard",
+    "unit": "Per Month",
+    "price": 4.99,
+    "additionalInfo": "Digital access to all basketball and football articles"
+  },
+  {
+    "id": "SW-STD-Y",
+    "title": "Standard Subscription - Yearly",
+    "category": "Standard",
+    "unit": "Per Year",
+    "price": 49.99,
+    "additionalInfo": "Digital access, 2 months free"
+  },
+  {
+    "id": "SW-PRE-M",
+    "title": "Premium Subscription - Monthly",
+    "category": "Premium",
+    "unit": "Per Month",
+    "price": 9.99,
+    "additionalInfo": "Print + digital, ad-free, exclusive player interviews"
+  },
+  {
+    "id": "SW-PRE-Y",
+    "title": "Premium Subscription - Yearly",
+    "category": "Premium",
+    "unit": "Per Year",
+    "price": 99.99,
+    "additionalInfo": "Print + digital, ad-free, exclusive interviews, 2 months free"
+  }
+]
