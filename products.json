@@ -1,34 +1,112 @@
 [
   {
     "id": "SW-STD-M",
-    "title": "Standard Subscription - Monthly",
-    "category": "Standard",
+    "description": "Standard Subscription - Monthly",
+    "category": "Subscription",
     "unit": "Per Month",
     "price": 4.99,
+    "weight": "",
+    "color": "",
     "additionalInfo": "Digital access to all basketball and football articles"
   },
   {
     "id": "SW-STD-Y",
-    "title": "Standard Subscription - Yearly",
-    "category": "Standard",
+    "description": "Standard Subscription - Yearly",
+    "category": "Subscription",
     "unit": "Per Year",
     "price": 49.99,
+    "weight": "",
+    "color": "",
     "additionalInfo": "Digital access, 2 months free"
   },
   {
     "id": "SW-PRE-M",
-    "title": "Premium Subscription - Monthly",
-    "category": "Premium",
+    "description": "Premium Subscription - Monthly",
+    "category": "Subscription",
     "unit": "Per Month",
     "price": 9.99,
+    "weight": "",
+    "color": "",
     "additionalInfo": "Print + digital, ad-free, exclusive player interviews"
   },
   {
     "id": "SW-PRE-Y",
-    "title": "Premium Subscription - Yearly",
-    "category": "Premium",
+    "description": "Premium Subscription - Yearly",
+    "category": "Subscription",
     "unit": "Per Year",
     "price": 99.99,
+    "weight": "",
+    "color": "",
     "additionalInfo": "Print + digital, ad-free, exclusive interviews, 2 months free"
+  },
+  {
+    "id": "SW-ISS-0907",
+    "description": "Back Issue - College Football Kickoff",
+    "category": "Back Issue",
+    "unit": "Each",
+    "price": 6.99,
+    "weight": "0.5 lb",
+    "color": "",
+    "additionalInfo": "Sept. 7 print issue with Top 25 preview"
+  },
+  {
+    "id": "SW-ISS-1012",
+    "description": "Back Issue - NBA Season Preview",
+    "category": "Back Issue",
+    "unit": "Each",
+    "price": 6.99,
+    "weight": "0.5 lb",
+    "color": "",
+    "additionalInfo": "Oct. 12 print issue with all 30 team previews"
+  },
+  {
+    "id": "SW-MRC-TEE",
+    "description": "Sports Weekly Logo T-Shirt",
+    "category": "Merchandise",
+    "unit": "Each",
+    "price": 19.99,
+    "weight": "0.4 lb",
+    "color": "Navy",
+    "additionalInfo": "100% cotton, sizes S-XXL"
+  },
+  {
+    "id": "SW-MRC-HOOD",
+    "description": "Sports Weekly Hoodie",
+    "category": "Merchandise",
+    "unit": "Each",
+    "price": 39.99,
+    "weight": "1.2 lb",
+    "color": "Heather Gray",
+    "additionalInfo": "Fleece-lined pullover, sizes S-XXL"
+  },
+  {
+    "id": "SW-MRC-CAP",
+    "description": "Sports Weekly Snapback Cap",
+    "category": "Merchandise",
+    "unit": "Each",
+    "price": 17.99,
+    "weight": "0.3 lb",
+    "color": "Black",
+    "additionalInfo": "Adjustable, embroidered logo"
+  },
+  {
+    "id": "SW-MRC-MUG",
+    "description": "Game Day Coffee Mug",
+    "category": "Merchandise",
+    "unit": "Each",
+    "price": 12.99,
+    "weight": "0.9 lb",
+    "color": "White",
+    "additionalInfo": "11 oz ceramic, dishwasher safe"
+  },
+  {
+    "id": "SW-MRC-PSTR",
+    "description": "Championship Poster Set",
+    "category": "Merchandise",
+    "unit": "Set of 3",
+    "price": 14.99,
+    "weight": "0.6 lb",
+    "color": "Full Color",
+    "additionalInfo": "Three 18 x 24 in. posters from our best covers"
   }
 ]

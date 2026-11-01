@@ -1,8 +1,8 @@
-// This list holds all the subscribers (filled from subscribers.json)
+
 let subscribers = [];
 let form = document.getElementById("signupForm");
 
-// Load the saved subscribers from subscribers.json when the page opens
+
 fetch("subscribers.json")
     .then(function (response) {
         return response.json();
