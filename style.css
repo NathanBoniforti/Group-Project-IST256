@@ -83,3 +83,14 @@ body {
 footer {
     background-color: #f5f5f5;
 }
+
+.json-box {
+    max-height: 300px;
+    overflow: auto;
+    font-size: 14px;
+}
+
+.active-link {
+    font-weight: bold;
+    text-decoration: underline;
+}
