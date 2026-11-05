@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "productId": "SW-MRC-TEE",
+    "productName": "Sports Weekly Logo T-Shirt",
+    "price": 19.99,
+    "reason": "Wrong size",
+    "condition": "Not Used",
+    "status": "Pending"
+  },
+
+  
+  {
+    "id": 2,
+    "productId": "SW-MRC-HOOD",
+    "productName": "Sports Weekly Hoodie",
+    "price": 39.99,
+    "reason": "Item did not fit",
+    "condition": "Not Used",
+    "status": "Pending"
+  }
+]
