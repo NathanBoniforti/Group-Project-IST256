@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1, 
+    "title": "Top 10 NBA Players of 2026",
+    "author": "John Smith",
+    "category": "Basketball",
+    "content": "A look at the top NBA players.", 
+    "status": "Pending"
+  },
+  {
+    "id": 2, 
+    "title": "Top 10 NBA Players of 2026",
+    "author": "John Smith",
+    "category": "Basketball",
+    "content": "A look at the top NBA players.", 
+    "status": "Pending"
+  }
+  
+]
