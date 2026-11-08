@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "fullName": "Sample Customer",
+    "address": "123 Demo Street",
+    "city": "Sampletown",
+    "state": "PA",
+    "zip": "00000",
+    "shippingMethod": "Standard Shipping",
+    "paymentMethod": "Test Card",
+    "lastFour": "4242",
+
+    
+
+    
+    "items": [
+      {
+        "id": "SW-MRC-TEE",
+        "description": "Sports Weekly Logo T-Shirt",
+        "category": "Merchandise",
+        "unit": "Each",
+        "price": 19.99,
+        "quantity": 1
+      }
+    ],
+
+
+
+
+
+    "subtotal": 19.99,
+    "tax": 1.20,
+    "total": 21.19
+  }
+]
