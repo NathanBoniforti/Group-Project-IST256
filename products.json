@@ -7,7 +7,8 @@
     "price": 4.99,
     "weight": "",
     "color": "",
-    "additionalInfo": "Digital access to all basketball and football articles"
+    "additionalInfo": "Digital access to all basketball and football articles",
+    "image": "images/subscription.png"
   },
   {
     "id": "SW-STD-Y",
@@ -17,7 +18,8 @@
     "price": 49.99,
     "weight": "",
     "color": "",
-    "additionalInfo": "Digital access, 2 months free"
+    "additionalInfo": "Digital access, 2 months free",
+    "image": "images/subscription.png"
   },
   {
     "id": "SW-PRE-M",
@@ -27,7 +29,8 @@
     "price": 9.99,
     "weight": "",
     "color": "",
-    "additionalInfo": "Print + digital, ad-free, exclusive player interviews"
+    "additionalInfo": "Print + digital, ad-free, exclusive player interviews",
+    "image": "images/subscription.png"
   },
   {
     "id": "SW-PRE-Y",
@@ -37,7 +40,8 @@
     "price": 99.99,
     "weight": "",
     "color": "",
-    "additionalInfo": "Print + digital, ad-free, exclusive interviews, 2 months free"
+    "additionalInfo": "Print + digital, ad-free, exclusive interviews, 2 months free",
+    "image": "images/subscription.png"
   },
   {
     "id": "SW-ISS-0907",
@@ -47,7 +51,8 @@
     "price": 6.99,
     "weight": "0.5 lb",
     "color": "",
-    "additionalInfo": "Sept. 7 print issue with Top 25 preview"
+    "additionalInfo": "Sept. 7 print issue with Top 25 preview",
+    "image": "images/football.png"
   },
   {
     "id": "SW-ISS-1012",
@@ -57,7 +62,8 @@
     "price": 6.99,
     "weight": "0.5 lb",
     "color": "",
-    "additionalInfo": "Oct. 12 print issue with all 30 team previews"
+    "additionalInfo": "Oct. 12 print issue with all 30 team previews",
+    "image": "images/nba.png"
   },
   {
     "id": "SW-MRC-TEE",
@@ -67,7 +73,8 @@
     "price": 19.99,
     "weight": "0.4 lb",
     "color": "Navy",
-    "additionalInfo": "100% cotton, sizes S-XXL"
+    "additionalInfo": "100% cotton, sizes S-XXL",
+    "image": "images/tee.png"
   },
   {
     "id": "SW-MRC-HOOD",
@@ -77,7 +84,8 @@
     "price": 39.99,
     "weight": "1.2 lb",
     "color": "Heather Gray",
-    "additionalInfo": "Fleece-lined pullover, sizes S-XXL"
+    "additionalInfo": "Fleece-lined pullover, sizes S-XXL",
+    "image": "images/hoodie.png"
   },
   {
     "id": "SW-MRC-CAP",
@@ -87,7 +95,8 @@
     "price": 17.99,
     "weight": "0.3 lb",
     "color": "Black",
-    "additionalInfo": "Adjustable, embroidered logo"
+    "additionalInfo": "Adjustable, embroidered logo",
+    "image": "images/cap.png"
   },
   {
     "id": "SW-MRC-MUG",
@@ -97,7 +106,8 @@
     "price": 12.99,
     "weight": "0.9 lb",
     "color": "White",
-    "additionalInfo": "11 oz ceramic, dishwasher safe"
+    "additionalInfo": "11 oz ceramic, dishwasher safe",
+    "image": "images/mug.png"
   },
   {
     "id": "SW-MRC-PSTR",
@@ -107,6 +117,7 @@
     "price": 14.99,
     "weight": "0.6 lb",
     "color": "Full Color",
-    "additionalInfo": "Three 18 x 24 in. posters from our best covers"
+    "additionalInfo": "Three 18 x 24 in. posters from our best covers",
+    "image": "images/posters.png"
   }
 ]
